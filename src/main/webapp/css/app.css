@@ -1,0 +1,70 @@
+ .k-grid-toolbar .k-grid-custom,
+ .k-grid tbody .k-grid-edit,
+ .k-grid tbody .k-grid-delete,
+ .k-grid tbody .k-grid-update,
+ .k-grid .k-header .k-grid-add {
+	background: #187F43;
+}
+
+ .k-grid th.k-header,  .k-grid th.k-header thead tr[role="row"] a,  .k-grid-header .k-header a.k-link,  .k-grid-header {
+    background: #DCECE3;
+    color: #000000;
+    border: 2px #CCCDCD;
+}
+
+ .k-grid-header .k-grid-filter span{
+    color: black;
+}
+
+ .k-grid .k-pager-numbers .k-state-selected {
+    background: #187F43;
+}
+
+ .k-grid .k-pager-refresh .k-link span:before {
+    color: black;
+}
+
+/* BOTOES CRUD INICIO */
+
+.btn-bar-crud-to {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+}
+
+.btn-crud-to {
+    width: 120px;
+    padding: 5px 0;
+}
+
+/* BOTOES CRUD FIM */
+
+.bg {
+    background: linear-gradient(rgba(19,102,54,1) 0%, rgba(19,102,54,1) 33%, rgba(241,241,241,1) 33%, rgba(241,241,241,1) 100%);
+}
+
+/* Pode ser feito com skin daqui pra baixo */
+
+h1 {
+    color: #136636 !important;
+}
+
+
+div#main-nav-bar .navbar,
+.crn-navigator-vertical {
+    background: #187F43;
+}
+
+/*Muda o hover dos itens do menu*/ 
+.navbar-nav>li>a:hover{
+    background-color: #187F43 !important; 
+}
+
+/*Muda o hover dos itens do submenu*/ 
+.navbar-default #navbar .navbar-nav li .dropdown-menu a:hover{  
+    background-color: #187F43 !important;
+}
+
+.btn-to, .btn-to button {
+    background: #187F43 !important;
+}

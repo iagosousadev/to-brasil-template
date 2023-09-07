@@ -1,0 +1,12 @@
+{
+  "name": "io.cronapp.apps.tobrasiltestesdetemplate",
+  "displayName": "TO Brasil testes de template",
+  "version": "1.0.0",
+  "description": "TO Brasil testes de template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CronApp IDE",
+  "license": "Apache-2.0"
+}
